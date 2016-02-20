@@ -1,0 +1,14 @@
+{
+  "name": "@zouczscope/md1",
+  "version": "1.0.0",
+  "description": "learn npm-scope",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\\"
+  ],
+  "author": "",
+  "license": "MIT"
+}

@@ -1,0 +1,1 @@
+﻿console.log("md1 in zoucz scope...")
