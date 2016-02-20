@@ -1,0 +1,20 @@
+﻿{
+  "name": "zoucz",
+  "version": "1.0.4",
+  "description": "a example npm package to Learn npm api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage":"https://github.com/zouchengzhuo/zoucz",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zouchengzhuo/zoucz.git"
+  },
+  "bin":{
+    "zoucz":"./bin/zoucz.js",
+    "zoucz_err":"./bin/zoucz_err.js"
+  },
+  "author": "Chengzhuo Zou <405966530@qq.com> (http://zoucz.com)",
+  "license": "ISC"
+}
